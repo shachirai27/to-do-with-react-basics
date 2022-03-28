@@ -1,4 +1,8 @@
 This is a simple to-do list type Feedback app to explore react functional components and hooks.
+Also used npm packages:
+json-server: to create a Mock backend
+concurrently: to create a script in package.json so that we don't have to run react and backned servers separately.
+Added proxy to add backend server URL in pacakage.json.
 
 # Getting Started with Create React App
 
