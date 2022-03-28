@@ -4,6 +4,9 @@ json-server: to create a Mock backend
 concurrently: to create a script in package.json so that we don't have to run react and backned servers separately.
 Added proxy to add backend server URL in pacakage.json.
 
+To run a maock backend and use the app use the command:
+**npm run dev**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
