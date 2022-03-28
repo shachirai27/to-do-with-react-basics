@@ -1,3 +1,5 @@
+This is a simple to-do list type Feedback app to explore react functional components and hooks.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
